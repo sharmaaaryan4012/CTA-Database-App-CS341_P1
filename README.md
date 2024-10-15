@@ -32,7 +32,7 @@ The application supports multiple commands to interact with the database:
 
 ### Installation
 1. Clone the repository:
-  git clone https://github.com/your-username/CTA-Database-App.git
+  git clone https://github.com/sharmaaaryan4012/CTA-Database-App-CS341_P1.git
 
 2. Navigate to the project directory:
   cd CTA-Database-App
