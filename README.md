@@ -33,8 +33,10 @@ The application supports multiple commands to interact with the database:
 ### Installation
 1. Clone the repository:
   git clone https://github.com/sharmaaaryan4012/CTA-Database-App-CS341_P1.git
-
-2. Navigate to the project directory:
+2. Download the database:
+   https://drive.google.com/file/d/1v4ROobdqHDa-T5NF0sOS0MXvUDT3EHNi/view?usp=sharing
+3. Add the database to the same directory as main.py
+4. Navigate to the project directory:
   cd CTA-Database-App
 
 ### Running the Application
